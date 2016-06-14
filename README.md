@@ -39,3 +39,5 @@ Currently using version 2.2 of Pathogen
 * [vim-json](https://github.com/elzr/vim-json) - JSON support
 * [vim-systemd](https://fedorapeople.org/cgit/wwoods/public_git/vim-scripts.git) - Fedora Support
 * [vim-toml](https://github.com/cespare/vim-toml) - TOML support
+* [vim-yaml](https://github.com/avakhov/vim-yaml) - YAML support
+
