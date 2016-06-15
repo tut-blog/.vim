@@ -39,7 +39,4 @@ Currently using version 2.2 of Pathogen
 * [vim-systemd](https://fedorapeople.org/cgit/wwoods/public_git/vim-scripts.git) - Fedora Support
 * [vim-toml](https://github.com/cespare/vim-toml) - TOML support
 * [vim-yaml](https://github.com/avakhov/vim-yaml) - YAML support
-=======
-# For pathogen
 
-Thanks: https://gist.github.com/871107
