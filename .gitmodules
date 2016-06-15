@@ -73,6 +73,6 @@
 [submodule "bundle/deoplete-go"]
 	path = bundle/deoplete-go
 	url = https://github.com/zchee/deoplete-go.git
-[submodule "bundle/vim-yaml"]
-  path = bundle/vim-yaml
+[submodule "vim-yaml"]
+	path = vim-yaml
 	url = https://github.com/avakhov/vim-yaml.git

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vim
 ====
 
@@ -39,3 +40,9 @@ Currently using version 2.2 of Pathogen
 * [vim-json](https://github.com/elzr/vim-json) - JSON support
 * [vim-systemd](https://fedorapeople.org/cgit/wwoods/public_git/vim-scripts.git) - Fedora Support
 * [vim-toml](https://github.com/cespare/vim-toml) - TOML support
+=======
+# For pathogen
+
+Thanks: https://gist.github.com/871107
+
+>>>>>>> 4b37a4fa8a91c44b517e3fb6de3ebba5e02ec9fb
