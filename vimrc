@@ -10,6 +10,10 @@ filetype plugin indent on    " required
 "
 " Settings
 "
+set ffs=unix
+set fileencoding=utf-8
+set listchars=eol:¶
+set list
 set noerrorbells                " No beeps
 set number                      " Show line numbers
 set backspace=indent,eol,start  " Makes backspace key more powerful.
